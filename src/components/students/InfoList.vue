@@ -231,9 +231,5 @@ export default {
   .el-form-item {
     text-align: left;
   }
-  .el-pagination {
-    text-align: left;
-    margin-top: 20px;
-  }
 }
 </style>
