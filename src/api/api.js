@@ -82,3 +82,12 @@ export function dataview() {
         url: '/dataview'
     })
 }
+
+
+// 旅游地图接口
+export function travel() {
+    return service({
+        method: 'get',
+        url: 'travl'
+    })
+}
